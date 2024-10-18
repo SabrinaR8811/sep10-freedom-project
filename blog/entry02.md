@@ -15,6 +15,11 @@
 <h3>Trust me this will come together eventually-</h3>
 <h2>I can even add IMAGES! Images are going to be EXTREMELY useful!</h2>
 <img src = "kenhina.jpg">
+<p>As for challenges, I'm still figuring out stuff about inserting links... links are hard. I also still have to memorize Itallics?</p>
+<p>My main takeaways are that divs can be very useful, but very difficult. That's why there are none here. There will be divs in the next entry.</p>
+<p>Here, have a code snippet!</p>
+<p>"img src = kenhina.jpg"</p>
+<p>I used that for the image!!</p>
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
