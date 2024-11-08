@@ -52,6 +52,6 @@ body{
 </p>
 <p>Pretty good, right? I was originally making this on JSBin so I could copy and paste it here, but... uh... yeah, that didn't work out.</p>
 <h2>Assignment</h2>
-<p>Our most recent assignment? Idk, this is due on Wednesday so we'll probably get it on Tuesday or so.</p>
+<p>Our most recent assignment is a horror project. I did not struggle with this to be honest, it went really well!!</p>
 </body>
 </html>
