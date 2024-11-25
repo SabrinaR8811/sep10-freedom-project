@@ -8,13 +8,16 @@
 
 
 # Entry 4
-##### November 24th, 2023
+##### November 24th, 2023🪐
+### Message from Pluto incoming in 3... 2... 1...
 <div class="first-division">
-<h1>Testing, testing, this section is for html?</h1>
+<h1>Testing, testing, is this recording...?</h1>
 <h2>Alright, good.</h2>
 <p>So. I have been missing a lot of assignments, so I'm making up for it right now. I believe a blog entry was one of the missing assignments, no?</p>
 <p>Well lucky for you, this is going to contain as much information as possible from all my missing FreeCodeCamp stuff!</p>
 </div>
+
+<div>
 <h2>What I learned so far</h2>
 <p>You may not see it, but all the text above this paragraph was wrapped in a div. I tried to give it some color, but apparently Github says no to CSS, even if it's wrapped inside of some style tags. Style tags are used to give a website CSS properties, such as color, background, fonts, and text sizes. Here is an example of something you can use to decorate a specific division:</p>
 <p>
@@ -88,9 +91,13 @@
     <p>You can also further adjust the position of your text by using the skewX and skewY properties. These properties can make your text slanted in certain ways. For example, if you were to put "transform: skewX(70deg);", your text would be slanted to the left. If you made it -70 degrees, the text would slant to the right.</p>
     <p>skewY will make your text go up or down in a diagonal, like an arrow. Negative degrees will make your text go in an upwards diagonal, positive degrees will make it a downwards diagonal.</p>
     <p>You can also use @keyframes to animate elements! You can use this to make shapes such as hearts, circles, and crescent moons! @keyframes can be used to make your elements change color, bounce up and down, etc.</p>
-    <h2>Challenges</h2>
+    </div>
+    <h2>Challenges and Takeaways of this Entry</h2>
     <p>...oh boy. Challenges. This entire process was one giant challenge.</p>
     <p>I'd definitely say the most challenging part of this was making shapes. Animation itself is easy. Keyframes, infinite loops, I can handle all that. What I cannot handle is shapes because it requires so much adjustments of, well, everything. Specifically, you need border-radius, box-shadow, overlapping shapes, spread-radius, blur-radius... I managed to overcome that though. How? Through sheer force of will, blood, sweat, tears, and google. Thank you, google.</p>
+    <p>My takeaway for this? Hmm... if there's one lesson I've learned from this, it's that I should never, ever, ever procrastinagte on anything ever again because if I do, I will suffer immensely. That is my main takeaway. Everything else comes second. Lerning how to use divs and CSS? Second place. Learning about adding buttons? Second place. Learning animations and gradients? Second place. Literally everything in this entire blog entry? Yeah, that is completely second place. I promise to never, ever procrastinate on any of my HW, ever again.</p>
+    <p>I also took away another lesson from this: I learned that divs are surprisingly... simple. Always thought they'd be really hard. I also learned how to animate. I learned about keyframes and percentages, and I learned a little bit about gradients, too.</p>
+    <h6>Insert sobbing from how much work I had piled up in the background</h6>
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
