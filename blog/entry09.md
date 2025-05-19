@@ -18,6 +18,8 @@
 </p>
 <p>That's a bit of the code I used for the main heading!!</p>
 <p>My biggest takeaway was to always ask for help and always use a template. Everything I did was royally messed up, and barely even coherent. It took a lot of work in my Beyond MVP to actually make something worth a decent grade.</p>
+<p>My biggest challenge was the photos. The. Dang. PHOTOS. Honestly, the amount of time it took me to force my images to upload properly into the website was insane, and even then I could only manage a few of them. Still, it was worth it, because my site looked a lot better for it.</p>
+<p>The easiest part, on the other hand, was definitely all of the basic HTML. Typing in different sections and paragraphs was my jam throughout the entire project, and it was what I excelled at. I was easily typing up my paragraphs, and for the first time since... about Unit 3... I actually found myself having fun when coding. The CSS was also fairly easy, as it required a lot less programming than the HTML. Overall, this was... still extremely difficult but not as bad as I expected. 8/10 on hardness level instead of the 12/10 that I thought it'd be.</p>
 [Previous](entry08.md) | [Next](entry10.md)
 
 [Home](../README.md)
